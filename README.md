@@ -18,7 +18,7 @@ A Laravel-based CRUD application to manage university students and their class t
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/University-Management.git
+git clone https://github.com/yPrasadcoop/University-Management.git
 cd University-Management
 composer install
 cp .env.example .env
